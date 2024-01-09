@@ -1,0 +1,14 @@
+/workspaces/vending-machine/bin/Debug/net8.0/vending-machine
+/workspaces/vending-machine/bin/Debug/net8.0/vending-machine.deps.json
+/workspaces/vending-machine/bin/Debug/net8.0/vending-machine.runtimeconfig.json
+/workspaces/vending-machine/bin/Debug/net8.0/vending-machine.dll
+/workspaces/vending-machine/bin/Debug/net8.0/vending-machine.pdb
+/workspaces/vending-machine/obj/Debug/net8.0/vending-machine.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/vending-machine/obj/Debug/net8.0/vending-machine.AssemblyInfoInputs.cache
+/workspaces/vending-machine/obj/Debug/net8.0/vending-machine.AssemblyInfo.cs
+/workspaces/vending-machine/obj/Debug/net8.0/vending-machine.csproj.CoreCompileInputs.cache
+/workspaces/vending-machine/obj/Debug/net8.0/vending-machine.dll
+/workspaces/vending-machine/obj/Debug/net8.0/refint/vending-machine.dll
+/workspaces/vending-machine/obj/Debug/net8.0/vending-machine.pdb
+/workspaces/vending-machine/obj/Debug/net8.0/vending-machine.genruntimeconfig.cache
+/workspaces/vending-machine/obj/Debug/net8.0/ref/vending-machine.dll
