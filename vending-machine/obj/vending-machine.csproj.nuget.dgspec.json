@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/vending-machine/vending-machine.csproj": {}
+    "/workspaces/vending-machine/vending-machine/vending-machine.csproj": {}
   },
   "projects": {
-    "/workspaces/vending-machine/vending-machine.csproj": {
+    "/workspaces/vending-machine/vending-machine/vending-machine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/vending-machine/vending-machine.csproj",
+        "projectUniqueName": "/workspaces/vending-machine/vending-machine/vending-machine.csproj",
         "projectName": "vending-machine",
-        "projectPath": "/workspaces/vending-machine/vending-machine.csproj",
+        "projectPath": "/workspaces/vending-machine/vending-machine/vending-machine.csproj",
         "packagesPath": "/home/vscode/.nuget/packages/",
-        "outputPath": "/workspaces/vending-machine/obj/",
+        "outputPath": "/workspaces/vending-machine/vending-machine/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vscode/.nuget/NuGet/NuGet.Config"

@@ -1,9 +1,11 @@
-﻿VendingMachine machine = new VendingMachine();
+﻿Casher cashser = new Casher();
 
-machine.insertMoney(new Money());
-machine.insertMoney(new Money());
-machine.insertMoney(new Money());
+cashser.insert(new Cash(50));
+cashser.insert(new Cash(100));
+cashser.insert(new Cash(500));
 
-Console.WriteLine(machine.totalMoney());
+Console.WriteLine(cashser.total());
 
-machine.refund();
+cashser.refund();
+
+Console.WriteLine(cashser.total());

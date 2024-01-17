@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y2gwMg1IbpEGGv+iPzCir5ZqHgjsCM/eO9RYQeobTn7DFhzofFo+n3/nEqcJ1ofQUwQapvl9yTXK4lpYY5w7mg==",
+  "dgSpecHash": "vC7LN26LL6twpB1VcIs1d13SApxDJW/Y/4qF/IOHEKBYMxqFs4/hxu1kkKsl0wsYxVlb3UXwRkbXrrWyJ+HbBw==",
   "success": true,
-  "projectFilePath": "/workspaces/vending-machine/vending-machine.csproj",
+  "projectFilePath": "/workspaces/vending-machine/vending-machine/vending-machine.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
