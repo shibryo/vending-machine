@@ -1,4 +1,4 @@
-
+namespace vending_machine;
 using System.Linq;
 
 public class Casher

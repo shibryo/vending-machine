@@ -1,3 +1,4 @@
+namespace vending_machine;
 
 public class Cash
 {

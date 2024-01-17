@@ -1,4 +1,6 @@
-﻿Casher cashser = new Casher();
+﻿using vending_machine;
+
+Casher cashser = new Casher();
 
 cashser.insert(new Cash(50));
 cashser.insert(new Cash(100));
